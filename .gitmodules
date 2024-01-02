@@ -1,3 +1,3 @@
-[submodule "ui"]
-  path = "modules/ui"
-  url = "https://github.com/Hombre-x/event-chats-frontend"
+[submodule "event-chats-frontend"]
+	path = modules/ui
+	url = https://github.com/Hombre-x/event-chats-frontend
